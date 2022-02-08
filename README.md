@@ -1,0 +1,1 @@
+# G2SKZ4GrafikaGyak

@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "math.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\arvai\\Code\\grafika-main\\feladat\\cube",
+            "binaryPath": "c:\\Users\\arvai\\Code\\grafika-main\\feladat\\cube\\cube.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\arvai\\Code\\grafika-main\\feladat\\cube",
+            "binaryPath": "c:\\Users\\arvai\\Code\\grafika-main\\feladat\\cube\\galaxy.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\arvaidora\\Downloads\\Grafika\\galaxy",
+            "binaryPath": "c:\\Users\\arvaidora\\Downloads\\Grafika\\galaxy\\galaxy.exe",
+            "binaryArgs": []
+        }
+    ]
+}
